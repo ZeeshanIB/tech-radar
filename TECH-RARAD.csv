@@ -1,4 +1,4 @@
-name,ring,quadrants,isNew,description
+name,ring,quadrant,isNew,description
 Google Logging ,Adopt,Monitoring & Logging ,TRUE,hello
 Google Monitoring,Adopt,Monitoring & Logging ,TRUE,hello
 ELK,Adopt,Monitoring & Logging ,TRUE,hello
