@@ -1,97 +1,97 @@
 name,ring,topic,isNew,description
-Google Logging ,Adopt,Monitoring & Logging ,false,
-Google Monitoring,Adopt,Monitoring & Logging ,false,
-ELK,Adopt,Monitoring & Logging ,false,
-Prometheus Stack on K8s,Adopt,Monitoring & Logging ,false,
-Elasticsearch Stack on K8s,Adopt,Monitoring & Logging ,false,
-AWS Cloudwatch,Adopt,Monitoring & Logging ,false,
-prometheus,Adopt,Monitoring & Logging ,false,
-grafana,Adopt,Monitoring & Logging ,false,
-ELK,Adopt,Monitoring & Logging ,false,
-fluent-d,Adopt,Monitoring & Logging ,false,
-Thanos,Adopt,Monitoring & Logging ,false,
-Flow logs,Trial,Monitoring & Logging ,false,
-Google Cloud NAT,Adopt,Infrastructure ,false,
-Google network LB,Adopt,Infrastructure ,false,
-Google Manage Instances Group,Adopt,Infrastructure ,false,
-GCP VPC,Adopt,Infrastructure ,false,
-Dockers,Adopt,Infrastructure ,false,
-Nginx,Adopt,Infrastructure ,false,
-Cloud9,Adopt,Infrastructure ,false,
-EC2,Adopt,Infrastructure ,false,
-VPC,Adopt,Infrastructure ,false,
-ECR,Adopt,Infrastructure ,false,
-sagemaker,Adopt,Infrastructure ,false,
-AWS VPC,Adopt,Infrastructure ,false,
-AWS EKS,Adopt,Infrastructure ,false,
-AWS EC2,Adopt,Infrastructure ,false,
-Docker,Adopt,Infrastructure ,false,
-Kubernetes,Adopt,Infrastructure ,false,
-Rancher,Adopt,Infrastructure ,false,
-Aws Ec2,Adopt,Infrastructure ,false,
-AWS amplify,Adopt,Infrastructure ,false,
-Elastic LB,Adopt,Infrastructure ,false,
-AWS ASG,Adopt,Infrastructure ,false,
-kafka,Adopt,Infrastructure ,false,
-eks k8,Adopt,Infrastructure ,false,
-docker,Adopt,Infrastructure ,false,
-ec2,Adopt,Infrastructure ,false,
-Ambessedor,Adopt,Infrastructure ,false,
-oke k8,Adopt,Infrastructure ,false,
-oracle cloud,Adopt,Infrastructure ,false,
-Cloud Functions,Trial,Infrastructure ,false,
-Docker-compose,Trial,Infrastructure ,false,
-azure function app,Trial,Infrastructure ,false,
-Power BI,Trial,Infrastructure ,false,
-Azure synapse,Trial,Infrastructure ,false,
-azure stream analytics job,Assess,Infrastructure ,false,
-kustomize,Hold,Infrastructure ,false,
-Github,Adopt,CICD/Automation,false,
-Bash,Adopt,CICD/Automation,false,
-Jenkins,Adopt,CICD/Automation,false,
-Github Actions,Adopt,CICD/Automation,false,
-Github Container Registry,Adopt,CICD/Automation,false,
-ArgoCD,Adopt,CICD/Automation,false,
-AWS Codebuild,Adopt,CICD/Automation,false,
-AWS Codpipeline,Adopt,CICD/Automation,false,
-Terraform,Adopt,CICD/Automation,false,
-Helm charts,Adopt,CICD/Automation,false,
-spinneker,Adopt,CICD/Automation,false,
-Gitlab,Hold,CICD/Automation,false,
-Gitlab CI,Hold,CICD/Automation,false,
-Couchbase,Adopt,Data,false,
-GCP buckets,Adopt,Data,false,
-Redis,Adopt,Data,false,
-Google bigquery,Adopt,Data,false,
-Google bigtable,Adopt,Data,false,
-GCR,Adopt,Data,false,
-PostgressDB,Adopt,Data,false,
-AWS RDS,Adopt,Data,false,
-AWS Dynamodb,Adopt,Data,false,
-S3 buckets,Adopt,Data,false,
-azure eventhub,Adopt,Data,false,
-azure schema reg,Adopt,Data,false,
-Airbyte,Adopt,Data,false,
-MySQL,Adopt,Data,false,
-Amazon Redshift,Adopt,Data,false,
-AWS ECR,Adopt,Data,false,
-Zookeeper,Adopt,Data,false,
-Flink,Adopt,Data,false,
-Influxdb,Adopt,Data,false,
-Gitlab package registry,Adopt,Data,false,
-MongoDB,Adopt,Data,false,
-azure,Adopt,Data,false,
-Azure blob storage,Adopt,Data,false,
-stream analytics jobs,Adopt,Data,false,
-apache druid,Adopt,Data,false,
-imply data visualization,Adopt,Data,false,
-kafka,Adopt,Data,false,
-droid,Adopt,Data,false,
-kafka streams,Adopt,Data,false,
-EMQX,Adopt,Data,false,
-kafka-strimzi,Trial,Data,false,
-oracle streams,Assess,Data,false,
-colfluent-cloud,Assess,Data,false,
-confluent schema registry,Assess,Data,false,
-apache spark,Assess,Data,false,
-AWS timestream,Hold,Data,false,
+Google Logging ,Adopt,Monitoring & Logging ,false,description:
+Google Monitoring,Adopt,Monitoring & Logging ,false,description:
+ELK,Adopt,Monitoring & Logging ,false,description:
+Prometheus Stack on K8s,Adopt,Monitoring & Logging ,false,description:
+Elasticsearch Stack on K8s,Adopt,Monitoring & Logging ,false,description:
+AWS Cloudwatch,Adopt,Monitoring & Logging ,false,description:
+prometheus,Adopt,Monitoring & Logging ,false,description:
+grafana,Adopt,Monitoring & Logging ,false,description:
+ELK,Adopt,Monitoring & Logging ,false,description:
+fluent-d,Adopt,Monitoring & Logging ,false,description:
+Thanos,Adopt,Monitoring & Logging ,false,description:
+Flow logs,Trial,Monitoring & Logging ,false,description:
+Google Cloud NAT,Adopt,Infrastructure ,false,description:
+Google network LB,Adopt,Infrastructure ,false,description:
+Google Manage Instances Group,Adopt,Infrastructure ,false,description:
+GCP VPC,Adopt,Infrastructure ,false,description:
+Dockers,Adopt,Infrastructure ,false,description:
+Nginx,Adopt,Infrastructure ,false,description:
+Cloud9,Adopt,Infrastructure ,false,description:
+EC2,Adopt,Infrastructure ,false,description:
+VPC,Adopt,Infrastructure ,false,description:
+ECR,Adopt,Infrastructure ,false,description:
+sagemaker,Adopt,Infrastructure ,false,description:
+AWS VPC,Adopt,Infrastructure ,false,description:
+AWS EKS,Adopt,Infrastructure ,false,description:
+AWS EC2,Adopt,Infrastructure ,false,description:
+Docker,Adopt,Infrastructure ,false,description:
+Kubernetes,Adopt,Infrastructure ,false,description:
+Rancher,Adopt,Infrastructure ,false,description:
+Aws Ec2,Adopt,Infrastructure ,false,description:
+AWS amplify,Adopt,Infrastructure ,false,description:
+Elastic LB,Adopt,Infrastructure ,false,description:
+AWS ASG,Adopt,Infrastructure ,false,description:
+kafka,Adopt,Infrastructure ,false,description:
+eks k8,Adopt,Infrastructure ,false,description:
+docker,Adopt,Infrastructure ,false,description:
+ec2,Adopt,Infrastructure ,false,description:
+Ambessedor,Adopt,Infrastructure ,false,description:
+oke k8,Adopt,Infrastructure ,false,description:
+oracle cloud,Adopt,Infrastructure ,false,description:
+Cloud Functions,Trial,Infrastructure ,false,description:
+Docker-compose,Trial,Infrastructure ,false,description:
+azure function app,Trial,Infrastructure ,false,description:
+Power BI,Trial,Infrastructure ,false,description:
+Azure synapse,Trial,Infrastructure ,false,description:
+azure stream analytics job,Assess,Infrastructure ,false,description:
+kustomize,Hold,Infrastructure ,false,description:
+Github,Adopt,CICD/Automation,false,description:
+Bash,Adopt,CICD/Automation,false,description:
+Jenkins,Adopt,CICD/Automation,false,description:
+Github Actions,Adopt,CICD/Automation,false,description:
+Github Container Registry,Adopt,CICD/Automation,false,description:
+ArgoCD,Adopt,CICD/Automation,false,description:
+AWS Codebuild,Adopt,CICD/Automation,false,description:
+AWS Codpipeline,Adopt,CICD/Automation,false,description:
+Terraform,Adopt,CICD/Automation,false,description:
+Helm charts,Adopt,CICD/Automation,false,description:
+spinneker,Adopt,CICD/Automation,false,description:
+Gitlab,Hold,CICD/Automation,false,description:
+Gitlab CI,Hold,CICD/Automation,false,description:
+Couchbase,Adopt,Data,false,description:
+GCP buckets,Adopt,Data,false,description:
+Redis,Adopt,Data,false,description:
+Google bigquery,Adopt,Data,false,description:
+Google bigtable,Adopt,Data,false,description:
+GCR,Adopt,Data,false,description:
+PostgressDB,Adopt,Data,false,description:
+AWS RDS,Adopt,Data,false,description:
+AWS Dynamodb,Adopt,Data,false,description:
+S3 buckets,Adopt,Data,false,description:
+azure eventhub,Adopt,Data,false,description:
+azure schema reg,Adopt,Data,false,description:
+Airbyte,Adopt,Data,false,description:
+MySQL,Adopt,Data,false,description:
+Amazon Redshift,Adopt,Data,false,description:
+AWS ECR,Adopt,Data,false,description:
+Zookeeper,Adopt,Data,false,description:
+Flink,Adopt,Data,false,description:
+Influxdb,Adopt,Data,false,description:
+Gitlab package registry,Adopt,Data,false,description:
+MongoDB,Adopt,Data,false,description:
+azure,Adopt,Data,false,description:
+Azure blob storage,Adopt,Data,false,description:
+stream analytics jobs,Adopt,Data,false,description:
+apache druid,Adopt,Data,false,description:
+imply data visualization,Adopt,Data,false,description:
+kafka,Adopt,Data,false,description:
+droid,Adopt,Data,false,description:
+kafka streams,Adopt,Data,false,description:
+EMQX,Adopt,Data,false,description:
+kafka-strimzi,Trial,Data,false,description:
+oracle streams,Assess,Data,false,description:
+colfluent-cloud,Assess,Data,false,description:
+confluent schema registry,Assess,Data,false,description:
+apache spark,Assess,Data,false,description:
+AWS timestream,Hold,Data,false,description:
