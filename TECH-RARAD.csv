@@ -1,4 +1,4 @@
-name,ring,topic,isNew,description
+name,ring,quadrant,isNew,description
 Google Logging ,Adopt,Monitoring & Logging ,false,description:
 Google Monitoring,Adopt,Monitoring & Logging ,false,description:
 ELK,Adopt,Monitoring & Logging ,false,description:
